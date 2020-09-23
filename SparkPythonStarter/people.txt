@@ -1,0 +1,6 @@
+name,age,dept
+Alice,42,IT
+Bob,56,HR
+Charlie,35,Sales
+Thelma,25,CS
+Louise,37,Dock
